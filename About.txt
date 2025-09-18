@@ -1,3 +1,0 @@
-Name : U.Ajaswi
-Course Name : BCA
-One thing I Learned about Github is Storing files in the Github
